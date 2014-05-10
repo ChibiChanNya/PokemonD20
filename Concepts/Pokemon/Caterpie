@@ -1,0 +1,32 @@
+Caterpie:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Tackle, Bite
+Special Moves: String Shot (Entangles Enemy)
+Passive: Bug Bite (Bite rolls for Bug Damage, chance to eat held berries)
+Environment: Forests
+Skills: Climb
+Speed (Ground): 15
+Speed (Climb): 10
+
+Metapod:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Tackle
+Special Moves: String Shot (Carry). Harden (Defense Boost)
+Passives: Shed Skin
+Environment: Forests
+Skills: Stealth
+Speed (Ground): 5
+
+Butterfree:
+Hit Die: d6
+Size: Small
+Basic Moves: Tackle, Bite
+Special Moves: String Shot (Carryx2), Confusion (Telekinesis, Psychic Damage, chance at Stun), Poison Powder, Sleep Powder, Silver Wind, Whirlwind (Pushes Back, possible Knock Down), Bug Buzz (Sonic Damage, Chance at Confusion), Quiver Dance (Boosts Speed, Dexterity, Power Resistance, and Damage), 
+Passives: Bug Bite, Compound Eyes (360 Degree Vision, Dark Vision), Leech Life (Bites Drain Health) Seemingly Harmless (Butterfree rolls a bluff check, if failed opponent loses evasion for one turn)
+Environment: Forests
+Skills: Survival, Fly, Stealth, Sense Motive, Bluff
+Speed (Fly): 50
+Speed (Ground): 10
+Maneuverability: Good
