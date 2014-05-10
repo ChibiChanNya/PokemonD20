@@ -28,3 +28,4 @@ Passive: Synthesis, 8 Vines, Powder Variety II* (Powder now applies a slow condi
 Environment: Deep Forests
 Skills: Rope, Survival, Ranged Grapple
 Speed  40
+.
