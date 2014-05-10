@@ -1,0 +1,19 @@
+Ekans:
+Hit Die: d6
+Size: Medium
+Basic Moves: Bite, Tackle, Wrap, Tail
+Special Moves: Screech (Stuns), Acid (Chance of Blinding)
+Passive: Poison Fang (Bite has a chance of Poisoning), Poison Tail (Tail has a Chance of Poisoning) Intimidate, Shed Skin
+Environment: Plains, Fields
+Skills: Survival, Grapple
+Speed: 30
+
+Arbok:
+Hit Die: d6
+Size: Medium
+Basic Moves: Bite, Tackle, Wrap, Tail
+Special Moves: Screech (Carry), Acid (Carry), Gunk Shot (Chance of Poisoning), 
+Passive: Poison Fang, Poison Tail, Intimidate, Shed Skin, Ice Fang (Bite has a chance of Freezing), Thunder Fang (Bite has a chance of Stunning), Fire Fang (Bite has a chance of Burning)
+Environment: Plains, Fields
+Skills: Survival, Grapple
+Speed: 40
