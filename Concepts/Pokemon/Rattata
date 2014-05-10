@@ -1,0 +1,21 @@
+Rattata:
+Hit Die: d8
+Size: Tiny
+Basic Moves: Bite, Tackle, Tail
+Special Moves: Quick Attack, Hyper Fang (Increases Crit Chance)
+Passives: Run Away (Prevents Attacks of Opportunity when fleeing), Hustle (Decreases Accuracy, increases Damage)
+Environment: All Land and Underground
+Skills: Survival, Listen, Stealth
+Speed (Ground): 30
+Speed (Climb): 20
+
+Raticate:
+Hit Die: d8
+Size: Small
+Basic Moves: Bite, Tackle, Tail
+Special Moves: Quick Attack (Carry), Hyper Fang (Carry), Double-Edge, Focus Energy, Super Fang (Crit Damage x4), Pursuit (AOO where a Pokemon trying to escape is intercepted)
+Passives: Run Away, Hustle, Guts (Increases damage as hurt)
+Environment: All Land and Underground
+Skills: Survival, Listen, Stealth
+Speed (Ground): 40
+Speed (Climb): 30
