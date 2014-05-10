@@ -1,0 +1,31 @@
+Weedle:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Gore, Bite
+Special Moves: String Shot
+Passive: Bug Bite, Poison Sting (Gore has chance of Poisoning)
+Environment: Forests
+Skills: Climb
+Speed (Ground): 15
+Speed (Climb): 10
+
+Kakuna:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Tackle
+Special Moves: String Shot (Carry). Harden (Defense Boost)
+Passives: Shed Skin
+Environment: Forests
+Skills: Stealth
+Speed (Ground): 5
+
+Beedrill:
+Hit Die: d6
+Size: Small
+Basic Moves: Gore, Bite, Stinger
+Special Moves: String Shot (Carryx2), Pin Missile, Poison Jab,  Focus Energy, 
+Passives: Beedrill Rage (A Beedrill can Rage as a Barbarian of as many levels as the Beedrill has hit dice), Twin Needle (Can Attack Twice in one move with Arms), Poison Sting II (All Attacks have chance on Poison), Fell Stinger (Increases attack when opponent is felled), Sniper (Increases Crit Damage)
+Environment: Forests
+Skills: Survival, Aerial Combat,
+Speed (Fly): 40
+Aerial Maneuverability: Perfect
