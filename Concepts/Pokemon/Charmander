@@ -1,0 +1,31 @@
+Charmander:
+Size: Small
+Hit Die: d8
+Basic Moves: Claw, Bite, Tail (Fire Damage)
+Special Moves: Ember, Smokescreen, Dragon Rage
+Passive: Solar Power (When the sun is out power increases)
+Environment: Mountains
+Skills: Climb, Survival, Intimidate
+Speed: 20
+
+Charmeleon:
+Size: Medium
+Hit Die: d8
+Basic Moves: Claw, Bite, Tail (Fire Damage)
+Special Moves: Ember (Carry), Smokescreen (Carry), Dragon Rage (Carry), Dragon Claw, Fire Fang, Flame Burst
+Passive: Solar Power, Heated Smoke (Smokescreen now does minor Fire Damage, upgrades to Heated Smoke II) OR Murky Smoke (Smokescreen is Low Light Vision Immune, upgrades to Murky Smoke II), Slash (Claw Moves more power), Scary Face (Intimidate gets a bonus)
+Environment: Mountains
+Skills: Climb, Survival, Intimidate
+Speed: 30
+
+Charizard:
+Size: Large
+Basic Moves: Claw, Bite, Tail (Fire Damage), Wing Attack
+Special Moves: Ember (Carryx2) Smokescreen (Carryx2) Dragon Rage (Carryx2), Dragon Claw (Carry), Fire Fang (Carry), Flame Burst (Carry), Flamethrower, Shadow Claw, Flare Blitz
+Epic Move: Blast Burn (Learnable at 20)
+Passive: Solar Power, Heated Smoke II (Smokescreen now does regular Fire Damage) OR Murky Smoke II (Smokescreen cannot be seen through), Flying, Scary Face, Slash, Metal Claw (Penetrate Bonus)
+Environment: Mountains
+Skills: Survival, Fly, Aerial Combat, Climb, Intimidate
+Speed (Ground): 40
+Speed (Aerial): 50
+Aerial Maneuverability: Average
