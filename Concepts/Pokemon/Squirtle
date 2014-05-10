@@ -1,0 +1,30 @@
+Squirtle:
+Size: Small
+Basic Moves: Tackle, Tail, Bite
+Special Moves: Rapid Spin (Removes Entry Hazard, AOE Debuffs in 10 Ft. Area), Water Gun
+Passive: Fortification (Shell Prevents Sneak Attacks, Flank Attacks, and chance to ignore critical), Withdraw (Hides in Shell for Defense Boost)
+Environment: Rivers
+Skills: Swim, Water Breathing, Water Combat
+Speed (Ground): 15
+Speed (Water): 30
+
+Wartortle:
+Size: Medium
+Basic Moves: Tackle, Tail, Bite
+Special Moves: Water Gun (Carry), Rapid Spin (Carry), Water Pulse (High Pressured Water Ball, chance of deafen and Stun, Sonic Damage) [OR ICE BEAM, chance at Frozen], Bubblebeam
+Passive: Fortification, Aqua Tail (Tail Attack can now roll for water damage), Withdraw, Skull Bash (Tackle does more damage), Aqua Jet (Upgrades to Aqua Jet II, Wartortle's Rapid Spin gets a water attack bonus) OR Pinball Shell (Upgrades to Pinball Shell II, Rapid Spin can now hit initial target and two more within one square)
+Environment: Rivers
+Skills: Swim, Water Breathing, Water Combat
+Speed (Ground): 25
+Speed (Water): 40
+
+Blastoise:
+Size: Large
+Basic Moves: Tackle, Tail, Bite
+Special Moves: Water Gun (Carryx2), Rapid Spin (Carryx2), Water Pulse (Carry), Bubblebeam (Carry), Iron Defense (Massive Def Boost), Rain Dance
+Epic Move: Hydro Cannon (Learnable at 20)
+Passive: Fortification, Aqua Tail, Withdraw, Skull Bash, Hydro Pump (Can fire 2 Water Guns, Water Gun gets Damage Boost), Cannon Fodder (Blastoise can load cannons with, and fire, projectiles), Aqua Jet II (Damage Boost, knockdown) OR Pinball Shell II (Now hits 3 Targets (chance of 4) plus Initial, stagger)
+Environment: Rivers
+Skills: Swim, Water Breathing, Water Combat
+Speed (Ground): 35
+Speed (Water): 50
