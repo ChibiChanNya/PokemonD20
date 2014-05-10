@@ -1,0 +1,35 @@
+Pidgey:
+Hit Die: d6
+Size: Smaller end of Small
+Basic Moves: Peck, Tackle, Wing Attack
+Special Moves: Sand Attack, Quick Attack
+Passives: Gust (When flying overhead may create winds that knockdown or push, automatically casts Sand Attack), Keen Eye (Cannot be Blinded, ignores Concealment)
+Environment: Plains, Forests
+Skills: Survival, Aerial Combat, Flying
+Speed (Ground): 10
+Speed (Fly): 40
+Aerial Maneuverability: Poor
+
+Pidgeotto:
+Hit Die: d6
+Size: Medium
+Basic Moves: Peck, Tackle, Wing Attack
+Special Moves: Sand Attack (Carry), Quick Attack (Carry), Agility (Casts Haste), Air Slash (Chance to stagger), Feather Dance (Slows Opponent)
+Passives: Gust, Keen Eye, Steel Wing (Ignore Damage Reduction with wings)
+Environment: Plains, Forests
+Skills: Survival, Aerial Combat, Flying
+Speed (Ground): 15
+Speed (Fly): 60
+Aerial Maneuverability: Fair
+
+Pidgeot:
+Hit Die: d6
+Size: Large
+Basic Moves: Peck, Tackle, Wing Attack
+Special Moves: Sand Attack (Carryx2), Quick Attack (Carryx2), Agility (Carry), Air Slash (Carry), Feather Dance (Carry), Mirror Move (Copies Last Attack), Twister (Chance of Flinch), Hurricane (Chance of lifting opponent based on user's Str.)
+Passives: Gust, Keen Eye, Steel Wing, Improved Flight (Can fly to maximum load), Stormbreaker (Ignores Weather Conditions while flying)
+Environment: Plains, Forests
+Skills: Survival, Aerial Combat, Flying
+Speed (Ground): 20
+Speed (Fly): 80
+Aerial Maneuverability: Good
