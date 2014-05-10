@@ -1,4 +1,4 @@
-Bulbasaur: \n
+Bulbasaur: 
 Size: Small
 Hit Die: d8
 Basic Moves: Vine, Tackle, Bite
