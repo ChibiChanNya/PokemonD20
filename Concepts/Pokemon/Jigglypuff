@@ -1,0 +1,32 @@
+Igglybuff:
+Hit Die: d10
+Size: Tiny
+Basic Moves: Slam, Tackle
+Special Moves: Sing
+Passives: FLoat
+Environment: Temperate Plains
+Skills: Listen, jump, Search, Perform (Sing)
+Speed: 15
+
+
+Jigglypuff:
+Hit Die: d10
+Size: Tiny
+Basic Moves: Slam, Tackle
+Special Moves: Sing, Defense Curl, Rollout, DblSlap
+Passives: FLoat Cute Charm (CHA bonus to AC), Rest
+Environment: Temperate Plains
+Skills: Listen, jump, Search, Perform (Sing)
+Speed: 20, flight 10 clumsy
+
+
+
+
+Wigglytuff:
+Hit Die: d10
+Size: Small
+Basic Moves: Slam, Tackle
+Special Moves: Sing, Defense Curl, Rollout, DblSlap, Hyper Voice, Mimic (Temporarily learn enemy's attack), Disarming Voice (Change opponet mood to less hostile)
+Passives: FLoat Cute Charm (CHA bonus to AC), Rest, Double Edge, Play Rough (Graaple dragons for fairy damage)
+Environment: Temperate Plains
+Skills: Listen, jump, Search, Perform (Sing)
