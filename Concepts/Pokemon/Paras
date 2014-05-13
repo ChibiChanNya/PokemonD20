@@ -1,0 +1,20 @@
+Paras:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Claw, Tackle
+Special Moves: Growth (Increases size and power), Fury Cutter (Powers up with Consecutive uses), Spore (Sleeps Opponent without saving throw)
+Passives: Dig, Leech Life (Claw steals life), Dry Skin (Absorbs Water for health, Weak against fire and intense sun)
+Environment: Caves, Forests
+Skills: Burrow
+Speed (Ground): 20
+Speed (Burrow): 10
+
+Parasect:
+Hit Die: d6
+Size: Medium
+Basic Moves: Claw, Tackle
+Special Moves: Growth (Carry), Fury Cutter (Carry), Spore (Carry), Rage Powder, Absorb
+Passives: Leech Life, Dry Skin, Contact Spore (Inflicts random Powder Affliction), X-Scissor (Hit with Both Claws, tears foe), Slash, Giga Drain
+Environment: Caves, Forests
+Skills: Survival
+Speed: 30
