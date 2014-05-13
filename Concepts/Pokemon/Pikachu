@@ -1,0 +1,31 @@
+Pichu:
+Hit die: d3
+Size: Tiny
+Basic Moves: Tackle
+Special Moves: Thundershock (Chance of Stun)
+Passive: Pichu (Thundershock deals 1 Dmg to self)
+Environment: Plains, Power Plants, Cities
+Skills: Listen, Climb
+Speed: 20
+
+Pikachu
+Hit die: d6
+Size: Small
+Basic Moves: Tackle, Tail
+Special Moves: Thundershock (Carry), Thunder Wave (Paralyzes Opponent), Quick Attack, Agility
+Passive: Static (Contact with this Pokemon causes a chance at Paralysis), Lightingrod (Electric Type Attacks are drawn to this Pokemon and raises Sp. Atk instead of damage), Thunderbolt (Electric Type Attacks gets a damage boost, Thundershock can now Paralyze),
+Epic Move: Volt Tackle (Must be at level 20 to learn)
+Environment: Plains, Power Plants, Cities
+Skills: Listen, Climb, Survival
+Speed: 40
+
+Raichu
+Hit die: d6
+Size: Medium
+Basic Moves: Tackle, Tail
+Special Moves: Thundershock (Carryx2), Quick Attack (Carry), Agility (Carry), Thunder, Discharge (Hits surrounding Pokemon with Elecrticity), Double Team (Increases Dodge Chance)
+Passive: Static, Lightingrod, Thunderbolt, Flash (Can Dazzle Opponents, and can light up a small area), Thunder Tail (Tail now does more damage)
+Epic Move: Volt Tackle (Carried From Pikachu)
+Environment: Plains, Power Plants, Cities
+Skills: Listen, Climb, Survival, Tail Grapple (It's long tail allows for Grapple moves with tail)
+Speed: 50
