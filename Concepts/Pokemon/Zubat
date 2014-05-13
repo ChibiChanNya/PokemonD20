@@ -1,0 +1,35 @@
+Zubat:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Bite, Wing Attack
+Special Moves: Supersonic, Confuse Ray
+Passives: Leech Life (Bite steals life), Amass (Always come in packs of at least 3), Blind, Inner Focus (Immune to Stuns), 
+Environment: Caves
+Skills: Echolocation, Listen, Survival, Fly
+Speed (Ground): 5
+Speed (Fly): 30
+Maneuverability: Good
+
+Golbat:
+Hit Die: d6
+Size: Medium
+Basic Moves: Bite, Wing Attack
+Special Moves: Supersonic (Carry), Confuse Ray (Carry), Air Cutter, Haze (Clouds Vision, lowers AC), Mean Look (Demoralizes)
+Passives: Leech Life, Inner Focus, Poison Fang (Bite has chance of Poisoning), Crunch (Bite does more damage),
+Environment: Caves
+Skills: Echolocation, Listen, Survival, Fly, Low-Light Vision
+Speed (Ground): 5
+Speed (Fly): 60
+Maneuverability: Great
+
+Crobat:
+Hit Die: d6
+Size: Large
+Basic Moves: Bite, Wing Attack
+Special Moves: Supersonic (Carryx2), Confuse Ray (Carryx2), Air Cutter (Carry), Haze (Carry), Mean Look (Carry),  Pursuit, Sneak Attack, Cross Poison (Raises Wing Attack Damage, Wing Attack has chance to Poison), Acrobatics (Charges at opponent, can change direction and doesn't lose AC)
+Passives: Leech Life, Inner Focus, Poison Fang, Crunch, 
+Environment: Caves
+Skills: Echolocation, Listen, Survival, Fly, Dark Vision, Stealth
+Speed (Ground): 5
+Speed (Fly): 100
+Maneuverability: Perfect
