@@ -1,0 +1,21 @@
+Venonat:
+Hit Die: d6
+Size: Small
+Basic Moves: Tackle, 
+Special Moves: Disable (Cannot use previous move for 5 turns), Confusion, Psybeam
+Passives: Compound Eyes
+Environment: Forests, Urban
+Skills: Low-Light Vision, Dark Vision, Blindsense
+Speed: 20
+
+Venomoth:
+Hit Die: d6
+Size: Small
+Basic Moves: Tackle, Bite
+Special Moves: Disable (Carry), Confusion (Carry). Psybeam (Carry), Signal Beam, Poison Powder (Dex Poison), Bug Buzz, Quiver Dance
+Passives: Poison Fang, Compound Eyes, Double Beam (Can shoot two beam moves)
+Environment: Forests, Urban
+Skills: Low-Light Vision, Dark Vision, Blindsense
+Speed (Fly): 50
+Speed (Ground): 10
+Maneuverability: Good
