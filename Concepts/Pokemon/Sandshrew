@@ -1,0 +1,21 @@
+Sandshrew:
+Hit Die: d8
+Size: Small
+Basic Moves: Tackle, Scratch
+Special Moves: Rollout, Magnitude (Roll d10 to determine Damage), Defense Curl, Rapid Spin
+Passives: Slash, Dig (Can run and charge while burrowing), Sand Rush
+Environment: Plains, Deserts, Savannah
+Skills: Survival, Tremorsense
+Speed (Ground): 30
+Speed (Burrow): 20
+
+Sandslash
+Hit Die: d8
+Size: Medium
+Basic Moves: Tackle, Scratch, Spines
+Special Moves: Rollout (Carry), Magnitude (Carry), Defense Curl II (Improves rollout damage and), Rapid Spin (Carry), Hone Claws, Sandstorm, Earthquake, Spine Spray(Shoots spines from its back)
+Passives: Slash, Dig, Sand Rush, Sand Veil, Poison Spine (Spine Spray chance of poison)
+Environment: Plains, Deserts, Savannah
+Skills: Survival, Tremorsense
+Speed (Ground): 40
+Speed (Burrow): 30
