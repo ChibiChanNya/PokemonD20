@@ -1,0 +1,39 @@
+Oddish:
+Hit Die: d6
+Size: Tiny
+Basic Moves: Kick
+Special Moves: Razor Leaf, Absorb, Sleep Powder
+Passives: Sweet Scent (Attracts Prey/Pokemon), Chlorophyll (Sunlight recovers health), Camoflage (Grassy Terrain increases Stealth)
+Environment: Fields, Jungle
+Skills: Stealth
+Speed: 15
+
+Gloom:
+Hit Die: d6
+Size: Small
+Basic Moves: Kick, Tackle
+Special Moves: Absorb (Carry), Sleep Powder(Carry), Acid, Poison Powder
+Passives: Stench (May Nauseate when close), Chlorophyll, Mega Drain (Absorb does more damage)
+Environment: Fields, Jungle
+Skills: Survival, 
+Speed: 20
+
+Vileplume:
+Hit Die: d6
+Size: Medium
+Basic Moves: Kick, Tackle
+Special Moves: Absorb (Carryx2), Sleep Powder(Carryx2), Acid (Carry), Poison Powder (Carry), Solar Beam, Petal Blizzard, Aromatherapy (Removes Status Effects from Team)
+Passives: Stench, Chlorophyll, Giga Drain (Absorb does more damage), Spore Cloud (Can leave a cloud of Powder)
+Environment: Fields, Jungle
+Skills: Survival
+Speed: 25
+
+Bellosom:
+Hit Die: d6
+Size: Small
+Basic Moves: Leaf Blade
+Special Moves: Absorb (Carryx2), Sleep Powder(Carryx2), Acid (Carry), Poison Powder (Carry), Sunny Day, Petal Dance, Fascinate
+Passives: Sweet Scent, Chlorophyll, Colored Petal Dance (Red = Bleed, Blue = Inspire Courage)
+Environment: Fields,  Jungle
+Skills: Survival
+Speed: 30
