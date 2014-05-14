@@ -1,0 +1,21 @@
+Meowth:
+Hit Die: d6
+Size: Small
+Basic Moves: Scratch, Bite, Tail
+Special Moves: Fake out (Stuns), Feint Attack (Flanks Opponent), Pay day (Chance of dropping money), Fury Swipes
+Passives: Slash, Pick-Up (Finds random items), Technician I (Empower d4 damage attacks), Weapon Finesse, Pounce
+Environment: Urban
+Skills: Climb, listen, stealth
+Speed: 40
+Creator: Box
+
+
+Persian:
+Hit Die: d6
+Size: Medium
+Basic Moves: Scratch, Bite, Tail
+Special Moves: Fake-Out (Carry), Feint Attack (Carry), Pay Day (Carry), Power Gem, Swift (Cannot be Dodged), Fury Swipes, Rake, Night Slash
+Passives: Slash, Limber (Increases Dexterity, resists Stuns), Pick-Up, Technician II (Empower d4 and d6), Pounce, Weapon Finesse, Sneak Attack
+Environment: Urban
+Skills: Stealth, Listen, Survival
+Speed: 60
