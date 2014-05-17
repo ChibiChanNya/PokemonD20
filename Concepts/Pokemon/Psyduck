@@ -1,0 +1,21 @@
+Psyduck:
+Hit Die: d6
+Size: Small
+Basic Moves: Claw, Headbutt, Tail
+Special Moves: Water Gun, Psionics, Zen Headbutt (Chance of stun)
+Passives: Psychic Awakening (Chance on hit, guaranteed against crits, to awaken psychic powers), Headache (Headbutt has a chance to trigger Painful Awakening), Own Tempo (Immune mind affecting abilities)
+Environment: Rivers, Lakes
+Skills: Swim, Survival, Water Breathing
+Speed (Ground): 20
+Speed (Swim): 30
+
+Golduck:
+Hit Die: d6
+Size: Medium
+Basic Moves: Tail, Headbutt, Claw
+Special Moves: Water Gun (Carry), Psionics (Carry), Zen Headbutt (Carry), Aqua Jet, Ice Beam, Psych Up (Copies all Stat changes the opponent has), Amnesia (Dispels all temporary bonuses and penalties, increases saving throws)
+Passives: Aqua Tail, Hydro Pump, Swift Swim, Awakened (Permanent access to Psychic Powers), Cloud Nine (Unaffected by weather)
+Environment: Rivers, Lakes
+Skills: Swim, Survival, Water Breathing
+Speed (Ground): 30
+Speed (Swim): 70
