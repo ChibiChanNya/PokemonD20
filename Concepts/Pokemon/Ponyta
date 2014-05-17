@@ -1,0 +1,19 @@
+Ponyta:
+Hit Die: d8
+Size: Medium
+Basic Moves: Stomp, Kick, Tackle
+Special Moves: Flame Wheel, Flame Charge, Ember, Agility
+Passives: Flame Body (Contact has chance to Burn), Flash Fire
+Environment: Fields, Plains, Farmlands
+Skills: Jump, Survival, Mount
+Speed: 50
+
+Rapidash:
+Hit Die: d8
+Size: Large
+Basic Moves: Stomp, Kick, Tackle, Gore
+Special Moves: Flame Wheel (Carry), Flame Charge (Carry), Ember (Carry), Agility (Carry), Inferno (High Burn Chance), Fire Blast, Flare Blitz, Bounce (Jumps into the air, target takes fall damage, no recoil if miss)
+Passives: Flame Body, Flash Fire, 
+Environment: Fields, Plains, Farmlands
+Skills: Jump, Survival, Mount
+Speed: 70
