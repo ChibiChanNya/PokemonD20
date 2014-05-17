@@ -1,0 +1,20 @@
+Slowpoke:
+Hit Die: d10
+Size: Medium
+Basic Moves: Bite, Tackle
+Special Moves: Yawn (Opponent Falls asleep next turn), Water Gun, Confusion
+Passives: Immune to: Mind Affects, Pain Affects, Regenerate (Every turn not in combat regens health), No Initiative (0 Init)
+Environment: Riverbeds, Lakesides, Beaches
+Skills: Fishing, Listen, Swim, Water Breathing
+Speed (Swim): 5
+Speed (Swim): 10
+
+Slowbro:
+Hit Die: d10
+Size: Medium
+Basic Moves: Bite, Tackle
+Special Moves: Yawn (Carry), Water Gun (Carry), Confusion (Carry), Slack Off, Zen Headbutt, Amnesia, Heal Pulse
+Passives: Immune to: Mind Affects, Pain Affects, Regenerate (Every turn not in combat regens health), No Initiative (0 Init), Regenerate II (Permanent Health Regen, even while in combat)
+Environment: Riverbeds, Lakesides, Beaches
+Skills: Listen, Fishing
+Speed: 10
