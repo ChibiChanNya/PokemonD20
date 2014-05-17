@@ -1,0 +1,22 @@
+Mankey:
+Hit Die: d8
+Size: Small
+Basic Moves: Scratch, Tail, Kick
+Special Moves: Low Kick (Can trip), Karate Chop, Focus Energy, Leer
+Passives: Fighting (Basic Moves roll for Fighting Types), Rage (Destructive, Tireless, Intimidating), Anger Point (Increases Rage), Cross Chop (Can use Karate Chop with each hand), Vital Spirit (Cannot fall asleep during Battle)
+Environment: Forests, Mountains
+Skills: Balance, Climb, Jump, Survival
+Speed (Ground): 20
+Speed (Climb): 15
+Creator: Box
+
+Primeape:
+Hit Die: d8
+Size: Medium
+Basic Moves: Scratch, Kick, Punch
+Special Moves: Low Kick (Carry), Karate Chop (Carry), Focus Energy (Carry), Leer (Carry), Seismic Toss, Close Combat (Lowers Defenses), Thrash
+Passives: Fighting, Anger Point, Strength, Cross Chop, Cross Chop II (When Karate Chop is used Consecutively rolls critical), Vital Spirit, Defiant (When one stat is lowered, Attack Raises), Greater Rage
+Environment: Forests, Mountains
+Skills: Balance, Jump, Climb, Survival, Intimidate
+Speed (Ground): 40
+Speed (Climb): 20
