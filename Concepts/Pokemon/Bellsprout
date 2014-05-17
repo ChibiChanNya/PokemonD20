@@ -1,0 +1,29 @@
+Bellsprout:
+Hit Die: d6
+Size: Small
+Basic Moves: Vine
+Special Moves: Wrap, Poison Powder
+Passives: Chlorophyll, 2 Vines
+Environment: Woods, Fields
+Skills: Survival
+Speed: 25
+
+Weepinbell:
+Hit Die: d6
+Size: Small
+Basic Moves: Vine
+Special Moves: Wrap (Carry), Poison Powder (Carry), Acid, Razor Leaf, 
+Passives: Sweet Scent, Chlorophyll, 2 Vines, Swallow (When an opponent is grappled, swallows them and deals acid damage)
+Environment: Woods, Fields
+Skills: Survival, Grapple
+Speed: 35
+
+Victreebel:
+Hit Die: d6
+Size: Large
+Basic Moves: Vine, Leaf Blade
+Special Moves: Wrap (Carryx2), Poison Powder (Carryx2), Acid (Carry), Razor Leaf (Carry), Leaf Tornado
+Passives: Sweet Scent, Chlorophyll, 4 Vines, Swallow, Gastro Acid (Boosts Acid Potency)
+Environment: Woods, Fields
+Skills: Survival, Grapple
+Speed: 45
