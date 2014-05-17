@@ -1,0 +1,20 @@
+Tentacool:
+Hit Die: d6
+Size: Small
+Basic Moves: Tentacle
+Special Moves: Acid, Constrict, Bubble
+Passives: Water Bound, Clear Body (Prevents Debuffs), Bubblebeam, Acid Spray (Acid becomes conical AOE), 2 Tentacles, Ooze (When health is absorbed, it instead does damage), Poison Tentacle
+Environment: Salt Water Rivers and Lakes, Ocean
+Skills: Survival, Stealth, Swim, Water breathing
+Speed (Swim): 45
+
+Tentacruel:
+Hit Die: s6
+Size: Large
+Basic Moves: Tentacle
+Special Moves: Acid (Carry), Bubble (Carry), Constrict (Carry), Water Gun, Sludge Wave, Wring-Out
+Passives: Water Bound, Clear Body, Bubblebeam, Acid Spray, Poison Jab (Tentacle has chance of Poison, rolls for Poison dmg), 80 Tentacles, Hydro Pump, Ooze, Ocean Skin (When surrounded by water, health is slightly restored), Poison Tentacle
+Environment: Salt Water Rivers and Lakes, Ocean
+Skills: Survival, Stealth, Swim, Water Breathing, Grapple
+Speed (Ground): 10
+Speed (Speed): 80
