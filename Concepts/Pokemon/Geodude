@@ -1,0 +1,29 @@
+Geodude:
+Hit Die: d10
+Size: Small
+Basic Moves: Tackle, Punch
+Special Moves: Magnitude, Rollout, Rock Throw
+Passives: Hover, Sturdy (Cannot be taken out in one hit)
+Environment: Caves, Mountains
+Skills: Survival
+Speed: 15
+
+Graveler:
+Hit Die: d10
+Size: Medium
+Basic Moves:  Tackle, Punch
+Special Moves: Magnitude (Carry), Rollout (Carry), Rock Throw (Carry), Stealth Rock, Rock Polish (Raises Speed)
+Passives: Sturdy, Smack Down (Makes Flying Types/Levitators Prone), 4 Arms, Steamroller (Adds spikes to rollout)
+Environment: Caves, Mountains
+Skills: Survival
+Speed: 20
+
+Golem:
+Hit Die: d10
+Size: Medium
+Basic Moves: Tackle, Punch
+Special Moves: Magnitude (Carryx2), Rollout (Carryx2), Rock Throw (Carryx2), Bulldoze (Carry), Stealth Rock (Carry), Rock Polish (Carry), Earthquake, Explosion (Knocks out user for massive damage), Heavy Slam (Does more damage with more weight), Stone Edge
+Passives: Sturdy, Sand Veil, Smack Down, Steamroller, Fortification
+Environment: Caves, Mountains
+Skills: Survival
+Speed: 25
