@@ -1,0 +1,43 @@
+Poliwag:
+Hit Die: d6
+Size: Small
+Basic Moves: Tail, Tackle
+Special Moves: Bubble, Hypnosis, Mud Slap
+Passives: Water Absorb (Absorbs Water moves for HP), Double-Slap (Can hit with tail twice)
+Environment: Marsh, Lake, River
+Skills: Swim, Water Breathing, Survival
+Speed (Ground): 15
+Speed (Swim): 20
+
+Poliwhirl:
+Hit Die: d6
+Size: Medium
+Basic Moves: Tackle, Punch, Kick
+Special Moves: Bubble (Carry), Hypnosis (Carry), Mud Slap (Carry), Rain Dance, Water Pulse
+Passives: Water Absorb, Bubblebeam, Mud Shot (Mud Slap does more damage and is more focused)
+Environment: Marsh, Lake, River
+Skills: Swim, Water Breathing, Survival
+Speed (Ground): 25
+Speed (Swim): 30
+
+Poliwrath:
+Hit Die: d6
+Size: Medium
+Basic Moves: Tackle, Punch, Kick
+Special Moves: Bubble (Carryx2), Hypnosis (Carryx2), Mud Slap (Carryx2), Rain Dance (Carry), Water Pulse (Carry), Circle Throw, Mind Reader, Submission
+Passives: Water Absorb, Bubblebeam, Mud Shot, CON Boost
+Environment: Marsh, Lake, River
+Skills: Swim, Water Breathing, Grapple, Survival
+Speed (Ground): 40
+Speed (Swim): 30
+
+Politoed:
+Hit Die: d6
+Size: Medium
+Basic Moves: Tackle, Punch, Kick
+Special Moves: Bubble (Carryx2), Hypnosis (Carryx2), Mud Slap (Carryx2), Water Pulse (Carry), Hyper Voice, Scald, Perish Song
+Passives: Water Absorb, Bubblebeam, Mud Shot, Drizzle (Makes it rain)
+Environment: Marsh, Lake, River
+Skills: Swim, Water Breathing, Survival
+Speed (Ground): 30
+Speed (Swim): 40
