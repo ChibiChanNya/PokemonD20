@@ -1,0 +1,29 @@
+Machop:
+Hit Die: d10
+Size: Small
+Basic Moves: Punch, Kick
+Special Moves: Karate Chop, Low Kick
+Passives: Improved Sweep, Throw Anything
+Environment: Mountains, Caves
+Skills: Grapple, Survival
+Speed: 20
+
+Machoke:
+Hit Die: d10
+Size: Medium
+Basic Moves: Punch, Kick
+Special Moves: Karate Chop (Carry), Low Kick (Carry), Vital Throw, Submission, Elbow Drop
+Passives: Improved Sweep, Throw Anything, Guts (When Conditioned, increases Attack), Strength, Forward Punch (Punches push back enemies)
+Environment: Mountains, Caves
+Skills: Grapple, Survival
+Speed: 25
+
+Machamp:
+Hit Die: d10
+Size: Large
+Basic Moves: Punch, Kick
+Special Moves: Karate Chop (Carryx2), Low Kick (Carryx2), Vital Throw (Carry), Submission (Carry), Elbow Drop (Carry), Dynamic Punch, Cross Chop
+Passives: Improved Sweep, Throw Anything, Guts, No Guard (Hits from and for this Pokemon always hit), 4 Arms (Can use any move requiring one arm up to four times, can grapple two opponents), Flurry,
+Environment: Mountains, Caves
+Skills: Grapple, Survival
+Speed: 30
