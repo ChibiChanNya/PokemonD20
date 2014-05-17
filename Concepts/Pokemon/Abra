@@ -1,0 +1,29 @@
+Abra:
+Hit Die: d4
+Size: Small
+Basic Moves: None
+Special Moves: Psionics (Mirror Image, Blink, Greater Teleport)
+Passives: Sleep (Is always asleep), Magic Guard I, Synchronize
+Environment: Fields, Caves, Urban
+Skills: Telekinesis
+Speed: 5
+
+Kadabra:
+Hit Die: d4
+Size: Medium
+Basic Moves: Spoon
+Special Moves: Psionics (Carry) (Mind Thrust, Psybeam, Psionic Recovery, Kinesis)
+Passives: Inner Focus, Synchronize, Magic Guard I, Still Mind
+Environment: Fields, Caves, Urban
+Skills: Sense Motive, Autohypnosis, Knowledge (Any), Survival
+Speed: 40
+
+Alakazam:
+Hit Die: d4
+Size: Large
+Basic Moves: Spoon(x2)
+Special Moves: Psionics (Carryx2) (Mind Thrust, Psybeam, Psionic Recovery, Kinesis, Wall of Ectoplasm [Barrier], Dismiss Ectoplasm [Removes all Barriers and similar effects])
+Passives: Inner Focus, Synchronize, Magic Guard I & II, Agile Thoughts
+Environment: Fields, Caves, Urban
+Skills: Sense Motive, Autohypnosis, Knowledge (Any), Telepathy (Only one Human at a time), Survival
+Speed: 50
