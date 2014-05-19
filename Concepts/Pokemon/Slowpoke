@@ -18,3 +18,13 @@ Passives: Immune to: Mind Affects, Pain Affects, Regenerate (Every turn not in c
 Environment: Riverbeds, Lakesides, Beaches
 Skills: Listen, Fishing
 Speed: 10
+
+Slowking:
+Hit Die: d10
+Size: Medium
+Basic Moves: Bite, Tackle
+Special Moves: Yawn (Carry), Water Gun (Carry), Confusion (Carry), Psionics (Bolts, Create Sound, Float, Cloud Mind)
+Passives: No Initiative, Regenerate, Regenerate II, General Knowledge 
+Environment: Riverbeds, Lakesides, Beaches
+Skills: Listen, Fishing, Survival
+Speed: 10
